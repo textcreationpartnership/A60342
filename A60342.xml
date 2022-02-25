@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new haven at Sandwich for the honour, advantage, and safety of England faithfully discovered in a letter to the right honourable the Earle of Clarenden Lord High Chancellour of England. By J. S.</title>
+            <author>Slater, John, fl. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60342</idno>
+            <idno type="STC">Wing S3959A</idno>
+            <idno type="STC">ESTC R220062</idno>
+            <idno type="EEBO-CITATION">99831491</idno>
+            <idno type="PROQUEST">99831491</idno>
+            <idno type="VID">35954</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35954)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2045:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new haven at Sandwich for the honour, advantage, and safety of England faithfully discovered in a letter to the right honourable the Earle of Clarenden Lord High Chancellour of England. By J. S.</title>
+                  <author>Slater, John, fl. 1663.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for N. Brooks at the Angel in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Slater.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sandwich (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35954:1"/>
+            <pb facs="tcp:35954:1"/>
+            <p>A NEW HAVEN AT SANDWICH, FOR THE Honour, Advantage, and Safety OF ENGLAND: Faithfully Diſcovered in a Letter to the Right Honourable the Earle OF CLARENDEN Lord High CHANCELLOUR OF ENGLAND.</p>
+            <p>By <hi>J.S.</hi>
+            </p>
+            <q>
+               <hi>Quid faciendum Princeps conſulat cum multis, quid faciet, ſecum.</hi>
+            </q>
+            <p>
+               <hi>London</hi> Printed for <hi>N. Brooks</hi> at the <hi>Angel</hi> in <hi>Cornhil.</hi>
+            </p>
+            <pb facs="tcp:35954:2" rendition="simple:additions"/>
+            <pb facs="tcp:35954:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35954:3"/>
+            <pb n="1" facs="tcp:35954:3"/>
+            <head>A NEW HAVEN AT SANDWICH, FOR THE Honour, advantage, and Safety OF ENGLAND &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is an eminent inſtance of Gods Providence in the Conduct of ſublunary States, ſo to order thoſe whom the Divine pleaſure ma<g ref="char:EOLhyphen"/>keth choice of as Inſtruments of his favour, ſometimes for eſtabliſhing and preſervation, other whiles for regaining and augmentation of Empires; as that he cauſeth their ability amiably to ſhine in 'its full brightneſs of integrity and wiſdom amidſt the darkneſs of corrupted Ages, putting them into credit in the midſt of diſorder; raiſing them in the midle of ingratitude; ſupporting them in the throng of
+<pb n="2" facs="tcp:35954:4"/>envies,
+<note n="*" place="margin">Degene<g ref="char:EOLhyphen"/>res animos invidia in<g ref="char:EOLhyphen"/>venit aut facit; emu<g ref="char:EOLhyphen"/>latio nobi<g ref="char:EOLhyphen"/>les.</note> illuſtrating them among clouds of calumnies;
+<note n="*" place="margin">
+                  <p>Apud in<g ref="char:EOLhyphen"/>cautos ſem<g ref="char:EOLhyphen"/>per aliquid fortis ca<g ref="char:EOLhyphen"/>lumniae hae<g ref="char:EOLhyphen"/>ret, apud prudentes nubecula eſt, quae ci<g ref="char:EOLhyphen"/>to tranſi<g ref="char:EOLhyphen"/>bit.</p>
+                  <p>Anglia, tu Romam dnbita vel dona feren<g ref="char:EOLhyphen"/>tem!</p>
+               </note> con<g ref="char:EOLhyphen"/>ferring on them (yet) this vertue of honourable wiſdom, not for their honour, though not without it; nor, as to others in an angry ſmile of overflowing ſucceſs, ſuffering it to become rank ground of ambition and vanity; but through the gentle breathings of counſelling inſpiration, and the mellowing dews of Heaven upon them, making it fruit<g ref="char:EOLhyphen"/>ful for ever-growing occaſion, and of grand Obligation, to imploy and improve in tranſactions of importance both Vertue and Authority for publick Utility: So they (ever holding it fitting, ſometime to give that way in leſs impor<g ref="char:EOLhyphen"/>tant tranſactions, which they would never do, in the ob<g ref="char:EOLhyphen"/>taining what is fitting in more principal occurrents,) keep the Sheat-Anchor for great Tempeſts, Credit and Authority for eminent occaſions; ſmall ones never detain it; to the end, great ones may meet it in its full vigour. And after they have thus demonſtrated themſelves worthy Co<g ref="char:EOLhyphen"/>operators with his providence in ſo great a work, He for ever conſerveth the memorials of their Names ſacred in the embalming and embalmed Monuments of Royal and Loy<g ref="char:EOLhyphen"/>al breaſts; (each Heroick and generous Heart proving their living Tombe; each Authorizating &amp; grateful tongue their never dying Epitaph;) &amp; all to this end, that their Vertue having been ſo greatly advantagious to the Age they lived in, their example might be no leſs beneficial unto Poſterity.</p>
+            <p>My Lord, long before and ſince you have appeared on the Theatre of this now flouriſhing Kingdom, your alſo adaequate deſerts have enſtalled you among the wiſeſt of thoſe Antient Worthyes, your Praedeceſſours in time, no Antecedents in the riches from above; and from whom without a boaſt (ſo bounteous hath Heaven been unto you) your Loyalty and Wiſdom write you lineally deſcended; it being a Golden Record in the rolls of Truth, that <hi>Whoſe Vertues or Vices any one imitates, thoſe be his Praedeceſſours.</hi>
+               <pb n="3" facs="tcp:35954:4"/>The Honourable vertues having gone before you as well as them, and ſtill accompanying you in your gradati<g ref="char:EOLhyphen"/>ons, undoubtedly are ſupernally decreed to follow you af<g ref="char:EOLhyphen"/>ter death; for ſince they marched before you, like Heralds, opening the way for you to nobler deſigns, and the tu<g ref="char:EOLhyphen"/>tour'd world beholds them your inſeperable convoy's in the wary adminiſtration of thoſe higher truſts belonging to ſo great a Miniſter of State; how can it be, but that (in the raign too of a Second, and more divine, <hi>Auguſtus</hi>) Ver<g ref="char:EOLhyphen"/>tue and Honour, Honour and Vertue muſt needs prove your inter-wreathed Crown after your deceaſe.</p>
+            <p>My Lord, when His Majeſty (whoſe Preſervation <hi>Eng<g ref="char:EOLhyphen"/>land</hi> beholds a continued miracle of unmerited mercy, hopes and prayes it to be perpetuated) in a filial conde<g ref="char:EOLhyphen"/>ſcention of tranſcendent duty, adventured his moſt royal Perſon in a Pleaſure Boat to meet that living martyr The Meek Queen-Mother, and report came of a great danger paſt; All men (I treat not of Devils) were not more glad of the wiſhed-true News, then amazedly frighted at the in<g ref="char:EOLhyphen"/>certainty. The Storm ſhewed it ſelf, methoughts, a very excellently well bred and convenient Counſellour, ſo gravely (as it were) adviſing his moſt Sacred Majeſty to make to Land-wards; And at landing, right faithfully whiſpering in his ear, how <hi>That diſpute there,</hi> was not about <hi>The Dominion of the Narrow Seas,</hi> indubitably His, and unanimouſly a<g ref="char:EOLhyphen"/>gainſt all Invaders; but only a ſudden qualme from ſu<g ref="char:EOLhyphen"/>perfluity of wateriſh humours probably provoked through over-vexing: It troubled and freted them, belike, for the time not a little, to ſee (not Him, but) Him <hi>there</hi> (where yet even Stormes and in their greateſt tumults, we find, to how many's ſhame on Land! to their Soveraign remain<g ref="char:EOLhyphen"/>ed loyal) and not at Land; where (when ever ariſing) to diſpell them by the Majeſty of his eye, His Sacred ſelf knew (better then any other) to be the intereſt of his preſence.</p>
+            <pb n="4" facs="tcp:35954:5"/>
+            <p>If Storm, my Lord, benot ſo proper (and in its remem<g ref="char:EOLhyphen"/>brance, ſo toothſome) a Metaphor for a Counſellour, (yet wholeſome, for <hi>Olim haec meminiſſe juvabit</hi>) will your Honour be pleaſed to allow <hi>Neptune</hi> a Petitioner to his Majeſty in behalf of poor <hi>England</hi> (a very poor Land at that time without Him; and undone, had not Heaven had pitty on that Merchant, whoſe whole Treaſure <hi>here and there</hi> floated in one bottom:) 'Twas a Petition and a very lamentable one, pretty well pen'd, nothing amiſſe, freely (without any Feeing) and with very good diſpatch preſent<g ref="char:EOLhyphen"/>ed unto His Majeſty by an ingenious noble Mr. of Re<g ref="char:EOLhyphen"/>queſts The Storm (that Metaphor, I hope, your Lordſhip may admit:) And, as Petitions uſe, moſt humbly ſhewing in brief how the caſe ſtood, and in plain terms beſeeching His Majeſty to Land; importuning with-all (as other Peti<g ref="char:EOLhyphen"/>tions, eſpecially at Court) all poſſible expedition; conclud<g ref="char:EOLhyphen"/>ing too, as all Petitionary cuſtome is (very handſomely) for His Majeſties long Life and moſt happy Raign, and ſo<g ref="char:EOLhyphen"/>forth.</p>
+            <p>The wary Mariners (God reward them) approved them<g ref="char:EOLhyphen"/>ſelves expert Philoſophers in refuſing to adventure into <hi>Sandwich Creek,</hi> which choaked by the Sands, they knew (experimentally, by a <hi>Nil dat quod non habet</hi>) could not give harbour to others, ſince its own deficiencie and our diſhonour it hath a long time been, not to be made one her ſelf. A work ſo ſuitable to the royalty of the Crown, to the dignity of unconquered <hi>Kent,</hi> to the ſplendour of the Kings Chamber The Downs, to the honour, advantage, and ſafety of the whole Nation, that it had proved too hard a riddle for ſo poor an <hi>Oedipus</hi> as I to reſolve, how it poſ<g ref="char:EOLhyphen"/>ſibly could be moved to King <hi>Edward</hi> the ſixth, Queen <hi>Eliz.</hi> King <hi>James,</hi> King <hi>Charles</hi> the firſt, of bleſſed memory; and yet in none of the Times of thoſe unparalleld Prin<g ref="char:EOLhyphen"/>ces be performed; but that 'tis conjecturable, there might
+<pb n="5" facs="tcp:35954:5"/>be then, and ſo now as well as then, men, that (rather I hope out of inconſideration; then, as may be feared, out of miſcheivous intention) cared not (to uſe the expreſſion of an antient Beau-clerk) though the Kingdome publickly ſuffered in the main, ſo they could but maintain their own <hi>PRIVATE</hi> Fiſh-ponds.</p>
+            <p>
+               <hi>England,</hi> my Lord, hath ever been reputed the moſt fa<g ref="char:EOLhyphen"/>mous Iſland of the whole world, both for ſcituation, fertili<g ref="char:EOLhyphen"/>ty, and riches: which riches have been principally atchie<g ref="char:EOLhyphen"/>ved by Navigation, whereof the Royal Navy is the main<g ref="char:EOLhyphen"/>tainer, whoſe Court of Guard (as well in times of peace as War) was alwaies kept in the <hi>Downs.</hi>
+            </p>
+            <p>The <hi>Downs</hi> is the Lock and Key of the narrow Seas, and the Dominion of the narrow Seas is the indubitable right of the Crown, which honour cannot be maintained but by the Navy; and the Navy, time out of mind hath been ever kept (except occaſionally ſome few at <hi>Portſmouth</hi>) at <hi>Cha<g ref="char:EOLhyphen"/>tham</hi> in the river Medway: (<hi>Wolwich</hi> and <hi>Deepford,</hi> both in the river of <hi>Thames,</hi> I look on as places for building ſhips:) from which place (I mean <hi>Chatham</hi>) no ſhip, the wind be<g ref="char:EOLhyphen"/>ing Eaſternly, can be ſpeedily ſent forth for defence of the Land in times of Invaſion; which is an unſpeakable dis-ad<g ref="char:EOLhyphen"/>vantage to the Kingdome, and therefore no leſs diſhonour to the Nation, in regard it may be remedied, by making a new Haven betwixt <hi>Sandwich</hi> Town and the <hi>Downs,</hi> ſo capacious as 40 of the Kings ſhips (or a greater number) may lye there in a readineſs; And (I am very credibly in<g ref="char:EOLhyphen"/>formed) may be remedied without any coſt to his Majeſty, if graciouſly pleaſed (in his indubitate great judgment) to grant a Commiſſion out of his high Court of Admiralty, according to a Petition long ſince preſented to his Majeſty by <hi>Sam. Garthwait</hi> and <hi>W. Fathers</hi> Gent. Concerning prize-goods and wrecks taken ſince the year, 1642, neither accompted for, nor ſatisfied, nor pardoned, but remaining
+<pb n="6" facs="tcp:35954:6"/>due to the Crown, concealed in divers able perſons hands, to a greater value then ſufficient to defray this royal work for an Haven near <hi>Sandwich;</hi> and, being without any illegal prejudice to any perſon whatſoever, it cannot (and not otherwiſe) but be lookt upon by the whole Nati<g ref="char:EOLhyphen"/>on as a moſt juſt and very honourable imployment in His Majeſties (moſt meritorious) Service for the publick good.</p>
+            <p>So far reach the certain Inconveniencies, ariſing from th'incertainty of the wind, which though not numerous, yet very weighty, becauſe in future times of neceſſity may prove moſt miſchievous to the publick in its chief concern<g ref="char:EOLhyphen"/>ment, Safety
+<note n="*" place="margin">
+                  <hi>Primò conſulen<g ref="char:EOLhyphen"/>dum de ſalute, postea de dignita<g ref="char:EOLhyphen"/>te.</hi> Cice.</note>; (&amp; no leſs in its honour) and hazardous expence to become fruitleſs; as plainly appear'd in the year 1639.</p>
+            <p>
+               <note n="*" place="margin">In the beginning of <hi>September</hi> 1639. there came 66. <hi>Spaniſh</hi> ſhips into the Downs trebble man'd, for they had ten thouſand Land Soul<g ref="char:EOLhyphen"/>diers in them. At which time Sir <hi>John Pen<g ref="char:EOLhyphen"/>nington</hi> roade Admiral in the Downs, with five of his Majeſties ſhips, four of his Majeſties Pinnaſes, and two or three inconſiderable Merchant ſhips. When the King heard that there was ſuch a Fleet arrived there, He pre<g ref="char:EOLhyphen"/>ſently commanded that twelve great ſhips ſhould be prepared at <hi>London</hi> and <hi>Chatham,</hi> to be ſent unto Sir <hi>John Pennington</hi> with all poſſible ſpeed, to ſtrengthen his Forces. But notwithſtanding the Kings command, and much poſting, (the like whereof was never known) the Wind being Eaſternly, the fight betwixt the <hi>Spaniards</hi> and the <hi>Dutch</hi> was en<g ref="char:EOLhyphen"/>ded three dayes before they could get thoſe twelve ſhips into the Downs. <hi>Whites</hi> Jour<g ref="char:EOLhyphen"/>nal, p. 9.</note> The conveniencies both probable and preſent, I ſhall, my Lord, moſt humbly and faith<g ref="char:EOLhyphen"/>fully to the utmoſt extent of my narrow apprehenſion (next) preſent to your Lordſhips more fully diſcerning reflections, and beſt determinating judgement.</p>
+            <p>My Lord, all men know, <hi>Dunkirk</hi> is lately made ſtron<g ref="char:EOLhyphen"/>ger then ever; and though it be yet at leaſt a fair Newter, yet in caſe in change of Times it ſhould prove a raſh Op<g ref="char:EOLhyphen"/>ponent; <hi>Sandwich</hi> thus for<g ref="char:EOLhyphen"/>tified would prove a ready Reſpondent for <hi>Englands</hi> both honour and ſafegard, and perhaps prove an happy Medium to confute it to the Crown again: And then, who might not eaſily turn Prophet? that
+<pb n="7" facs="tcp:35954:6"/>to furniſh more orderly our <hi>Lent</hi>-Meſſes (provided ſtill, <hi>Engliſh</hi> ſtomacks may have more reliſhing appetite to Fiſh then of late; otherwiſe my Lord, no talk againſt ſtomack) the Fiſhing Trade itſelf, 'twixt two ſuch ſtrong Nets, would one time or other be caught ſwimming in to the bar<g ref="char:EOLhyphen"/>gain.</p>
+            <p>But (for the Proverbs ſake) I leave all theſe brain-ſwim<g ref="char:EOLhyphen"/>ming Probabilities; becauſe 'till reduced into act, they ſo near reſemble the rambling <hi>Aquatilia,</hi> which are never valu<g ref="char:EOLhyphen"/>ed 'till caught. But theſe following Commodities are not probabilities (which yet ought never to be deſpiſed) but cer<g ref="char:EOLhyphen"/>tainties; and therefore theſe Certainties, ſince commodious to the publique and in ſo high degree, will be (unleſs I am miſtaken in thoſe I call (under the Roſe) Certainties; for I am not in thoſe I acknowledge under the Throne Judges) ſurely embraced.</p>
+            <p n="1">1. <hi>There will be many thouſand pounds ſaved to the King, by mooring a great part of the Navy there, where they will be in a readineſs within two dayes warning to be ſent to Sea, whereas being at</hi> Chatham, <hi>it oftentimes proves the work of many weeks.</hi>
+            </p>
+            <p n="2">2. <hi>Another Commoditie is, they may be victualled there, the tranſportation whereof from</hi> London <hi>is no ſmall charge to the King.</hi>
+            </p>
+            <p n="3">3. <hi>The King may alſo have in readineſs there a Magazine of Anchors, Cables, Maſts of ſeveral Sizes, with all other ne<g ref="char:EOLhyphen"/>ceſſaries for ſervice.</hi>
+            </p>
+            <p>Give me leave my Lord, upon this third Commoditie or Convenience to make a ſhort Debate; ſince (which I heard many years ago in the Univerſitie from a wiſe man, Doctrinally on a Text of <hi>Solomons, Eccleſ.</hi> 1.14.) <hi>It is a wiſe mans part to conſider:</hi> However it behoveth me, out of the great reverence I bear to the Eagle-ſighted, to be as
+<pb n="8" facs="tcp:35954:7"/>adviſedly wary as poſſibly I can in my preſentments to your eye.</p>
+            <p>I ingenuouſly confeſs, ſome have held, that in a great Eſtate there might miſchiefs happen by any great proviſion of Armes in one place; for that he, who hath a Trayterous mind to mutinic, to arm thoſe of his Faction, and to deprive his Soveraign of the means to make uſe of ſuch Warlike proviſion, may make a deſign to ſeaze upon the place, where it is kept: But by the ſame reaſon, we muſt not draw to<g ref="char:EOLhyphen"/>gether any Treaſure to ſupply us in any emergent unexpe<g ref="char:EOLhyphen"/>cted neceſſity, neither fortifie any places, leſt that coming to loſe our money and our places, our Enemy ſhould grow ſtronger, and we the weaker.</p>
+            <p>But wiſdom prevents all ſuch-like inconveniencies; the which we muſt imploy to keep our advantages, and to make uſe of them, before that the Enemie ſeaze on them: Yet, if he doth ſeaze on them, we may not thereupon conclude, that the proviſion ought not to have been made; but, that it is our fault, who made it, not to be able or rather care<g ref="char:EOLhyphen"/>ful to keep it.</p>
+            <p>It is certain, that a Sword or a Knife would cut him that knows not how to handle it; but we may not therefore ſay, that we muſt neither make Sword nor Knife: So in all par<g ref="char:EOLhyphen"/>ticulars there may be inconveniencies; But, thoſe, which by fore-ſight may be prevented, ſhould not hinder us from doing that, which may otherwiſe very beneficially ſerve us both for our advantage and ſafety:</p>
+            <p>And therefore, my Lord,</p>
+            <p n="4">4. <hi>The place, where the Ships and Stores ſhall be kept, may be contrived and made into a ſtrong Garriſon, by build<g ref="char:EOLhyphen"/>ing ſo many Forts, as ſeem requiſite according to the ſeveral circumſpect and Grave Adviſo's of his Majeſties Council, and of each of which particulars Himſelf is ſole Judge.</hi> And</p>
+            <p n="5">5. <hi>As this would be a very high heartning to the Common
+<pb n="9" facs="tcp:35954:7"/>Guard there in all times of War; So it will be as deep a diſ<g ref="char:EOLhyphen"/>couragement to any Enemy, for daring with ſo apparent ha<g ref="char:EOLhyphen"/>zard to arrive there; leſt over-eagerly tranſported into a ridiculous ſelf-flattering fit of invaſion, they find it eaſier to out-ſail their ſuppoſed wits, then their aſſured overthrow.</hi>
+            </p>
+            <p>My Lord, Forts make a chief part of the Forces of a Kingdom; and they, which have been of opinion, that they ſhould not build any, have been confuted by Reaſon and Uſe; So as there have been few found, unleſs they were ſome petty popular Eſtates, that will follow their counſel. The <hi>Graecians</hi> and <hi>Romans</hi> (who had leſs need during their Empires, then any other Eſtate, for that all ſubmitted them<g ref="char:EOLhyphen"/>ſelves under their yoak) entertained Cittadels at <hi>Corinth, Tarentum,</hi> and <hi>Rhegium:</hi> And if the Capitol had not been ſtrong, the Empire of <hi>Rome</hi> had been ſmothered in the very Cradle of its own Infantine growth by the <hi>Gauls.</hi>
+            </p>
+            <p>(There be three words very frequent in the Worlds fancie; Obſervation, Conſideration, Moderation. But, Experience (the Guide of Mans underſtanding, Ruler of his Will, Over-ruler of his Opinion; and which renders him real, of deeper inſight then to be carried away with ap<g ref="char:EOLhyphen"/>pearances (though double guilt) but able through the var<g ref="char:EOLhyphen"/>niſhed Vizards of diſguiſed Intereſts to diſcern betwixt truth and truths-likeneſs) diſcovereth thoſe three ſo fre<g ref="char:EOLhyphen"/>quent Motto's not hitherto ſo flowing in moſt mens tongues and Pens, as ebbing in their practiſe. I have not altogether omitted ſome uſe of the firſt in this caſe of Forts; and ſtill retaining it, ſhall thereupon eſſay a little further by the ſecond; aiming (as ſteadily as I can) at <hi>Moderata juvant</hi> in the beneficial reſult of the third.)</p>
+            <p>The Eſtates, in which are no ſtrong places, are conquer<g ref="char:EOLhyphen"/>ed by one Battaile, <hi>England</hi> formerly hath teſtified it. And an Antient Counſellour to <hi>Henry</hi> the 4th. and <hi>Lewis</hi> the 13th. of <hi>France</hi> ſaid then, that the <hi>Perſian</hi> relying onely
+<pb n="10" facs="tcp:35954:8"/>on the number of his men, had loſt in one Battle a great extent of his Country, the which the Turk afterwards preſerved by Forts. For although Forts alone cannot much aſſiſt an Eſtate, yet being ſeconded by Armies, they make it invincible; and there being no Armies on foot, they give the Soveraign leaſure to raiſe them; and af<g ref="char:EOLhyphen"/>ter a rout, to rally his men together to renew the War. Yet by this it is not inferred, that <hi>that Eſtate</hi> which hath moſt Forts is ſtrongeſt; For it is impoſſible to guard many well; and ſome being ill-guarded, they prove more pre<g ref="char:EOLhyphen"/>judicial to the Eſtate, then proſitable for the defence. A Kingdom ought therefore to have few, but well-furniſhed with Men, Victuals and Amunition.</p>
+            <p>My Lord, Whether this near <hi>Sandwich</hi> ought, or ought not, be one of thoſe few, may be, if allowed, the Queſtion.</p>
+            <p>And if your Lordſhip's command ſhould authorize me freely to ſpeak what I think; and I ſhould be ſo lucky in my (though improbably yet poſſibly croſs-declared) opinion, ſubmittingly to agree with your reſerved judgement, which poſſibly alſo may be (for any thing I know) it ought not: as it would be (then) in me, even becauſe a private perſon, but the opinion of one Dunce; ſo it could be in your Ho<g ref="char:EOLhyphen"/>nour but the judgement of one Doctor, though the moſt excellent known.</p>
+            <p>I can aſſure to your honour thoſe words contain no hu<g ref="char:EOLhyphen"/>morous criticiſmes of any Miſtical preſumptuous ſenſe, but diſcover onely that modeſt ſobriety that ought to confine all private mens opinions in their raſh publick cenſures; which, when by hap-hazard (though that rarely) true, rove but at random; as having not obedient humility e<g ref="char:EOLhyphen"/>nough to attend the more ſafe and judicious conduct of their better acquainted Guides.</p>
+            <p>But if (which is more then probable, becauſe of my
+<pb n="11" facs="tcp:35954:8"/>preſent writing) I think this near <hi>Sandwich</hi> ought to be one of thoſe few; my opinion herein can amount no higher then to be ſtill opinion; of one, who ought, and doth, humbly preſent it, not by way of anticipation, but ſub<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p>But if your Lordſhip alſo (or rather, onely) think it ought, (for then it matters not, whether a private capaci<g ref="char:EOLhyphen"/>ty thought ſo or not,) that very thought in you (though it made not opinion in me to be judgement, yet it) makes the Deſign a juſtice due to the Nation; eſpeyially ſince all impediments (therein) of charge to His Majeſty be remo<g ref="char:EOLhyphen"/>ved: Grant me thereupon, my Lord, ſo much graci<g ref="char:EOLhyphen"/>ous allowance, as to remember unto your Honour, that even as thoſe ſtars meeting in Conjunction with the Sun, do much availe toward the cauſing of his influences to be<g ref="char:EOLhyphen"/>come good and favourable unto us; as the Pleiades, which cauſe the light to appear pleaſing and gracious unto us at the Springs return, whereas the Canicular Star makes it ſcorching in ſummer: So the Earle of <hi>Clarenden,</hi> moving (in this, and like noble Deſigns) the Royal will and Au<g ref="char:EOLhyphen"/>thority of ſo Divine a Prince as our Soveraign Lord the King, concurreth in the numerous influences of his grace with the Light of our eyes, becomming thereby (like the harmonious Pleiades) a favourable Organ and He<g ref="char:EOLhyphen"/>roick Inſtrument of a moſt fortunate and eſtabliſhed Age.</p>
+            <p>My Lord, Juſtice tending to the good of others, is as it were an eſſential quality to publick perſons, obliging them both to love and procure the publick good; which not on<g ref="char:EOLhyphen"/>ly Laws and Reaſon teach us, but even Nature it ſelf di<g ref="char:EOLhyphen"/>ctates unto us; For is it not apparent in all ſublunary things, yea in the very Heavens and in the Angels alſo, that whatſoever is deſtinated for the Common good, o<g ref="char:EOLhyphen"/>perateth not for it ſelf, but imployeth it ſelf for all? Do
+<pb n="12" facs="tcp:35954:9"/>not thoſe mighty Courtiers, thoſe confirmed Privado's of the Deity in the Cabinet of the Beatifick Viſion, kept white by the ſame bounty that created them ſo; in an
+<note n="*" place="margin">
+                  <p>
+                     <hi>Motus Angelo<g ref="char:EOLhyphen"/>rum fit in tem<g ref="char:EOLhyphen"/>pore im<g ref="char:EOLhyphen"/>percepti<g ref="char:EOLhyphen"/>bili, non indiviſi<g ref="char:EOLhyphen"/>bili.</hi>
+                  </p>
+                  <p>Suarez. <hi>Non in inſtanti, quia ſunt duo nunc, &amp; eſt pri<g ref="char:EOLhyphen"/>us &amp; po<g ref="char:EOLhyphen"/>ſterius.</hi> Aquinas.</p>
+               </note> imperceptible (though not indiviſible) motion of Time, from their brighter Manſions make ſwift-winged Progreſſes to our duſty Cottages of clay, promptingly to communicate their illuminative and reductive miniſtrations of ad-viſements and aſſiſtances to diminutive us the buſie Ants of this lower Orbe? Yea, do not the very Heavens ſend forth their influences, the Sun his beams, the Earth its faecundity, the Trees their fruits, Fountains their waters, Bees their honey, Silk-worms their delicate webs for all? Doth not the Liver diſtribute bloud to all the veins, the Head motion to all the nerves, the Heart vigour to all the members? Is there any thing in nature which converteth to its own uſe what it hath recei<g ref="char:EOLhyphen"/>ved for the common good? See we not in reaſonable crea<g ref="char:EOLhyphen"/>tures a deſire, in unreaſonable a motion, in inſenſible things a kind of inclination toward the general good of the Uni<g ref="char:EOLhyphen"/>verſe, whereby their particular good ſubſiſteth? Is it not true that by natural inſtinct the Hand caſts it ſelf before the body, to recevie the ſtroaks coming upon it, and how every part is inclinable to preſerve the whole, though to its own ruin? Shall not then knowledge, reaſon, and juſtice cauſe that in Man, which a meer natural inclination effecteth in all other things? But is there any thing either more glo<g ref="char:EOLhyphen"/>rious, or which attracteth the creature nearer to the imita<g ref="char:EOLhyphen"/>tion of God, then to ſeek and procure publique good? Is there any thing ſo noble in the world, as God? in man, as the Soul? in the body, as the Heart? in the tree, as the Root? All the tree is nouriſhed by the Root, the Heart cauſeth life in the whole body, the Soul guideth the whole man, God governeth the whole World. A Fort near <hi>Sand<g ref="char:EOLhyphen"/>wich,</hi>
+               <pb n="13" facs="tcp:35954:9"/>my Lord, were a Publick good, if onely for the ſafety of <hi>Sandwich;</hi> much more when of <hi>Kent</hi> alſo; but how noble a deſign were both a Fort and Haven there
+<note n="*" place="margin">At the King's landing in the <hi>Down's,</hi> the Maior and Jurates of <hi>Sandwich</hi> Petitioned his Majeſty for A New Haven; to whom His Majeſty (in his accuſtomary ready apprehenſion) very judiciouſly ballancing the great pre<g ref="char:EOLhyphen"/>ſent charge, with the future far greater advantages to the Nation) moſt graciouſly declared a cheerful readines of his royal inclination to ſo magnificent a work; provided moneys ſufficient for ſo great a work, might (without grievance to any of his good Subjects) be found to effect it. Sometime after, both the Maior and Aldermen of <hi>Canterbury,</hi> and alſo the Maior and Jurates of <hi>Sandwich,</hi> together with many eminent Gentlemen of Eaſt-<hi>Kont,</hi> joined all in a grand Petition to His Maieſty, for A New Haven at <hi>Sandwich.</hi>
+               </note> when for ſo great a good, as the ſafety, ho<g ref="char:EOLhyphen"/>nour and advantage of all <hi>England?</hi>
+            </p>
+            <p>Since my Argument's quite ſpent, and I know not how far I my ſelf alſo may (ere-aware) have over-gone my ſelf; if we both muſt ſink, wee'l be ſmotherd in roſes: For, the Scene's chang'd to the Aſylum of your Honours Boſom.</p>
+            <p>My Lord, your practiſing of vertue in your own parti<g ref="char:EOLhyphen"/>cular, is a cuſtome in you, but yet due ever to your ſelf, and is (as the world alwaies goes) made a great matter; but whenever (like your ſelf) you nobly extend it to ano<g ref="char:EOLhyphen"/>thers good, <hi>that</hi> Act, as carrying on it the winning face of Bounty (a greater Conqueror then beauty) in becoming (and therein claiming honours character) the kindly Foſter<g ref="char:EOLhyphen"/>er of deſert, is certainly much more glorious; to be ſo munificent then as to diffuſe it abroad towards many, in the man of Honour muſt needs be right excellent; but to impart it to all, and in ſuch royal deſignes as This, (and whoſe benefit redounds as well to After Ages) what? what can it be other in the moſt Noble Earl of <hi>Clarenden,</hi> then ſuper-eminent? I am in all my propenſities ever (un<g ref="char:EOLhyphen"/>der the Thrones of God and the King) peculiarly,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's moſt humble and moſt Obedient Servant <hi>JOHN SLATER.</hi>
+               </signed>
+               <date>
+                  <hi>July</hi> 23. 1663.</date>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="14" facs="tcp:35954:10"/>
+            <head>POST-SCRIPT.</head>
+            <p>THat <hi>Dunkirk</hi> vvas honourably parted with, I have heard to be the judgment of peaceable &amp; wiſe men; and whoſoever (among the too talkative rabble, ignorant ever of Reaſon of State) ſeem other wiſe in their opinions, their venting of them, though never ſo unſeaſonably, concerns not me, who quiet under Government, am nothing moved to credulity by vvhat common Embroylers think. But I think it concerns every man (as to Salvation) to think &amp; think again, vvhat they ſay indirectly againſt Government; And (as to <hi>ſafety</hi>) what Government directly may ſay to them. Theſe tongue-Bravado's (poſſibly) may in their minorities <hi>one time or other</hi> have received a ſmart ſecret lick, if not open bang, at the vulgar weapon. Why then, 'tis meer trifling away of any mans time, others and his own quiet, after a ſound knock on the pate at cudgells, to ven<g ref="char:EOLhyphen"/>ture at ſharp, and ſo willfully revive diſreputation. It needs no ſecond thoughts to conſider, Shorteſt errors to be the beſt. And a<g ref="char:EOLhyphen"/>mong the Fathers 'tis ſpoke of St. <hi>Austin</hi> (formerly a Manichee) Though He came the lateſt, He went the fartheſt in Chriſtianity; which I am inclinable to attribute to the royal mercy of divine grace, in ſo ſignally honouring the humility of his Retractations. I am ſure, what is of the God of peace will ſtand, what is from <hi>paſſion,</hi> will come to naught, but repentance; and then (but per<g ref="char:EOLhyphen"/>haps) pardon: And after—<hi>Moniti meliora</hi>—is a ſeaſonable diſh, if ſtomack will fall too; if not, Obſtinacie laying the Cloth, Con<g ref="char:EOLhyphen"/>fuſion will bring in the Voider: <hi>Officij &amp; gratitudinis ergo precemur omnes. Vivat Rex Fidei Defenſor (&amp; corroboretur cor in manu Domini) paenâ incorrigibilium, praemio bonorum glorioſus, clementiâ dignis mi<g ref="char:EOLhyphen"/>ſericors, indignis ſeverus, omnibus juſtus: ſalvae Reginae: Dux fortis Genti exemplar integritatis: floreat pacificâ vigilantiâ faelix Par<g ref="char:EOLhyphen"/>liamentum: pace &amp; veritate beata ſit Anglia: convertantur inimici: diſſipentur oculo Regis (tanquam Angelo Domini) invidiae, ſubtili<g ref="char:EOLhyphen"/>tates malitiosè indignae, factiones, calumniae, tum murmurationes Par<g ref="char:EOLhyphen"/>ticulares, tum Catholicae perfidiae. Annihiletur recens praxis an<g ref="char:EOLhyphen"/>tiqui Serpentis. Schismaticis &amp; Haereticis dogmatibus mixta; cujus Amaſios omnes velim memores, ut ſubtilior reliquis animalibus, ita execrabilior.</hi>
+            </p>
+            <closer>Sit gloria Deo in altiſſimis, pax (&amp; preces Eccleſiae) ſuper Bri<g ref="char:EOLhyphen"/>tanniam &amp; Hiberniam, hominibus bona voluntas.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35954:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
